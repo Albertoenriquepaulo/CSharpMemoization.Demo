@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memoization.Demo", "Memoization.Demo\Memoization.Demo.csproj", "{EC8EA9FE-D5BA-4125-8B87-19C912385697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC8EA9FE-D5BA-4125-8B87-19C912385697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8EA9FE-D5BA-4125-8B87-19C912385697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8EA9FE-D5BA-4125-8B87-19C912385697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8EA9FE-D5BA-4125-8B87-19C912385697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {780DC587-BB95-47A9-9ECB-38EFBF5CF124}
+	EndGlobalSection
+EndGlobal
